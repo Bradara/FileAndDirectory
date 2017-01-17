@@ -1,6 +1,0 @@
-c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\Odd Lines\bin\Debug\Odd Lines.exe.config
-c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\Odd Lines\bin\Debug\Odd Lines.exe
-c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\Odd Lines\bin\Debug\Odd Lines.pdb
-c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\Odd Lines\obj\Debug\Odd Lines.csprojResolveAssemblyReference.cache
-c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\Odd Lines\obj\Debug\Odd Lines.exe
-c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\Odd Lines\obj\Debug\Odd Lines.pdb
