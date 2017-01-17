@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\WordCount\bin\Debug\WordCount.exe.config
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\WordCount\bin\Debug\WordCount.exe
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\WordCount\bin\Debug\WordCount.pdb
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\WordCount\obj\Debug\WordCount.exe
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\WordCount\obj\Debug\WordCount.pdb

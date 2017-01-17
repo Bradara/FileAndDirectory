@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\LineNumber\bin\Debug\LineNumber.exe.config
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\LineNumber\bin\Debug\LineNumber.exe
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\LineNumber\bin\Debug\LineNumber.pdb
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\LineNumber\obj\Debug\LineNumber.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\LineNumber\obj\Debug\LineNumber.exe
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\LineNumber\obj\Debug\LineNumber.pdb

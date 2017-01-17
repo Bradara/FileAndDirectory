@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\MergeFiles\bin\Debug\MergeFiles.exe.config
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\MergeFiles\bin\Debug\MergeFiles.exe
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\MergeFiles\bin\Debug\MergeFiles.pdb
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\MergeFiles\obj\Debug\MergeFiles.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\MergeFiles\obj\Debug\MergeFiles.exe
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\MergeFiles\obj\Debug\MergeFiles.pdb

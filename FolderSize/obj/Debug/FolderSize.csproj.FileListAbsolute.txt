@@ -1,0 +1,6 @@
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\FolderSize\bin\Debug\FolderSize.exe.config
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\FolderSize\bin\Debug\FolderSize.exe
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\FolderSize\bin\Debug\FolderSize.pdb
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\FolderSize\obj\Debug\FolderSize.csprojResolveAssemblyReference.cache
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\FolderSize\obj\Debug\FolderSize.exe
+c:\users\atanas\documents\visual studio 2017\Projects\FileAndDirectory\FolderSize\obj\Debug\FolderSize.pdb
